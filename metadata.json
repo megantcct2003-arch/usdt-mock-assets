@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "Mock stablecoin mint (non-Tether).",
+  "image": "https://raw.githubusercontent.com/meganetcct2003-arch/usdt-mock-assets/main/logo.png.png",
+  "extensions": {
+    "website": "https://example.com",
+    "twitter": "https://x.com/example",
+    "discord": "https://discord.gg/example"
+  }
+}
