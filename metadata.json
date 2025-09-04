@@ -5,11 +5,11 @@
 The digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.
 
 USDT is fairly simple to use. Once on exchanges like Poloniex or incorporated, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.", 
-  "image": "https://raw.githubusercontent.com/meganetcct2003-arch/usdt-mock-assets/main/logo.png.png",
+  "image": "https://github.com/megantcct2003-arch/usdt-mock-assets/blob/main/logo.png.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/meganetcct2003-arch/usdt-mock-assets/main/logo.png.png",
+        "uri": "https://github.com/megantcct2003-arch/usdt-mock-assets/blob/main/logo.png.png",
         "type": "image/png"
       }
     ]
